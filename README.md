@@ -8,7 +8,7 @@
 - <b>Languages and Technologies used: PHP, HTML, CSS, JS/Bootstrap & MySQL
 - <b>Author Name :</b> Anuj Jain, Prashant Singh Chauhan, Neha Singh, Pradumn Kumar & Vimal Vinayak
 
-- <b>Login Details: </b> 
+- <b>Login Details : </b> 
   - After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
   - There you’ll find a folder naming “htdocs”.
   - Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
