@@ -6,7 +6,7 @@
 
 - “FLYSTORE” is an ecommerce website platform for various products from different categories such as Clothing, Food, Footwear, Electronics, Home-appliances, Mobiles, Grocery, Cosmetics etc. Website displays all the lists of products with their respective prices. There are two categories for login on this website: Admin and Customer.In an overview of this web application, the customer has to register in order to perform various actions. A customer can look for products, add products to the cart, add products to a wishlist. Each product contains its own description, features, and number of photos. Talking about the checkout procedure, as soon as the customer passes through checkout procedures, the he/she has to manage the order from the account section.
 - <b>Languages and Technologies used: PHP, HTML, CSS, JS/Bootstrap & MySQL
-- <b>Author Name :</b> Anuj Jain, Prashant Singh Chauhan, Neha Singh, Pradumn Kumar & Vimal Vinayak
+- <b>Authors Name :</b> Anuj Jain, Prashant Singh Chauhan, Neha Singh, Pradumn Kumar & Vimal Vinayak
 
 - <b>Login Details: </b> 
   - After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
